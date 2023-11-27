@@ -15,6 +15,5 @@
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:didrkdud0512@gmail.com)](didrkdud0512@gmail.com)
 
 
