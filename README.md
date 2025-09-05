@@ -1,8 +1,13 @@
 
-### GAROONG🐯
+# GAROONG🐯
 
-#### Vision-Based Robot System
-- a modular soft exosuit for hemiparetic patients
+## Who Am I
+- 🌱 I’m currently learning AI, Robotics (exosuit)
+- 🥇 I majored in Artificial Intelligence
+
+### What I Like
+- 📖 Book
+- 🦝 Raccon
 
 🛠️ Stacks
 
@@ -11,10 +16,8 @@
 
 💪🏼 Tools 
 
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> 
-
-
-🐱 About Me
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> 
 
 
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gayoung0512" height="165">
