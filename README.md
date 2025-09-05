@@ -7,7 +7,7 @@
 
 ### What I Like
 - 📖 Book
-- 🦝 Raccon
+- 🦝 Raccoon
 
 🛠️ Stacks
 
