@@ -20,4 +20,4 @@
 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gayoung0512" height="165">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=gayoung0512" height="165">
